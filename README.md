@@ -26,6 +26,21 @@ application for image classification.
 
 ---
 
+## Dataset
+
+This project uses the **German Traffic Sign Recognition Benchmark (GTSRB)** dataset.
+
+Download it from:
+
+https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign
+
+After downloading, place the dataset in the following directory:
+
+```text
+dataset/
+└── GTSRB/
+```
+
 ## Models
 
 ### Custom CNN
