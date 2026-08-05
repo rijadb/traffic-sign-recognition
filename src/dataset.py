@@ -38,8 +38,5 @@ class GTSRBDataset(Dataset):
 
         return image, label
     
-"""
- kad runnamo image, label[25] onda ce ici na index 25 i odradit ce sve
-nase radnje i priprema ga za dataLoader kad pozove da moze uzeti CNN
-"""
+
         
