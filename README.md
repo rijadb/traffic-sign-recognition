@@ -141,6 +141,14 @@ streamlit run src/app.py
 
 ---
 
+## Experimental Camera Mode
+
+The application includes an experimental camera input feature using Streamlit.
+
+The trained models were developed using the German Traffic Sign Recognition Benchmark (GTSRB) dataset, which contains well-centered and controlled traffic sign images. As a result, predictions on live camera images may be less accurate due to differences in lighting, viewing angle, background clutter, and image quality.
+
+The primary evaluation and comparison of the models is therefore based on uploaded traffic sign images.
+
 ## Key Features
 
 - Custom CNN implemented from scratch
